@@ -11,3 +11,8 @@ https://www.pngall.com/                       download png for free
 https://www.img2go.com/photo-editor           Edit photo
 https://cooltext.com/                   photo from text
 https://www.lifewire.com/create-a-media-library-in-vlc-player-2438321               For saving video on vlc media library...Don't forget the TIP...otherwise it won't work
+
+On Subtitle
+&#39;	--->single quote		'
+
+
