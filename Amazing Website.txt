@@ -15,5 +15,5 @@ http://www.tothepc.com/archives/disable-remove-favicons-in-chrome-firefox/      
 https://quotescover.com/tools/online-quotes-maker#quotemaker            create quotes....this is cool website
 On Subtitle
 &#39;	--->single quote		'
-
+https://dev.to/miku86/vscode-transform-text-to-lowercase-uppercase-titlecase-1mcg               vscode convert lowercase,UPPERCASE,Titlecase
 
